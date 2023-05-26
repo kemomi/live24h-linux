@@ -7,17 +7,13 @@
 # 脚本参数：无
 # 脚本返回：0:正常执行 1:执行错误
 # ----------
-# 作者：机电匠(JiDianJiang), also known as Mechatronics Craftsman (MC)
-# 版权：Copyright (c) 2023 机电匠(JiDianJiang)
-# 许可：GNU General Public License v3.0
-# GITHUB：https://github.com/JiDianJiang
 # ----------
 # ----------
 
 TEXT="
 Note, UTF-8 encoding is being used for the following text.
 
-$(basename "$0") v1.0.0-Alpha.27 https://github.com/JiDianJiang Copyright (c) 2023 机电匠(JiDianJiang)
+$(basename "$0") v1.0.0-Alpha.27 https://github.com/kemomi Copyright (c) 2023 
 这是【Alpha】版本，处于开发阶段，仍然需要更多的探索和发现。
 
 Author: 机电匠(JiDianJiang), also known as Mechatronics Craftsman (MC)
